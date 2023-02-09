@@ -3,6 +3,7 @@ package net.kuronicle.example.customer.normal.domain;
 import lombok.Data;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.ToString;
 
 @NoArgsConstructor
 @Data
