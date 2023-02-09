@@ -1,4 +1,4 @@
-package net.kuronicle.example.dddexamplecustomer;
+package net.kuronicle.example.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
